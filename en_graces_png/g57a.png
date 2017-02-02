@@ -1,0 +1,157 @@
+<!DOCTYPE HTML>
+<html lang="en-us">
+ <head>
+  <title>Error document</title>
+  <link type="image/x-icon" href="/favicon.ico" rel="shortcut icon">
+  <link rel="stylesheet" type="text/css" href="/style.css" >
+ </head>
+ <body>
+  <h1>The Web page you seek
+   <br>cannot be found or displayed--
+   <br>endless others can.</h1>
+  <br>
+  <br>
+  <h1>Duh! Where 
+   <i>is</i> that page?</h1>
+  <br>I am such a stupid computer!  I really have no clue where that page you asked for is!  Surely I must have it around here somewhere.  Didn't I see it last week?
+  <br>
+  <br>Right now, I can't see 
+  <a href="https://box1033.bluehost.com/~areliabl/hymns.nevcal.com/hc/img-Graces-png/g57a.png">https://box1033.bluehost.com/~areliabl/hymns.nevcal.com/hc/img-Graces-png/g57a.png</a> anywhere I look.
+  <br>
+  <br>If you have problems with this, maybe you should sorta let someone know about it.  It probably will not go away by itself.
+  <br>The top of this site is 
+  <a href="https://box1033.bluehost.com/~areliabl/hymns.nevcal.com/">https://box1033.bluehost.com/~areliabl/hymns.nevcal.com/</a>
+  <br>
+  <hr>It appears that you typed or pasted in a bad link: check its origin.
+Or if you have HTTP_REFERER turned off in your browser or proxy, it might
+just appear that way. If you arrived following a link from some other site,
+you might report the problem to the webmaster of that site.
+  <hr>HTTP error code: 404
+  <br>For error code definitions, see 
+  <a href="http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html">w3c.org</a>
+  <hr>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <hr>
+  <h3>glu.values</h3>glu: .Admin: ('glenn.linderman.2@gmail.com',)
+  <br>glu: .Credentials: ('glid',)
+  <br>glu: .DirectoryIndex: ('!index.html', 'index.html', 'index.htm', '*!index.cgi', '*index.cgi', '*index.py', '*index.pl')
+  <br>glu: base-domain: hymns.nevcal.com
+  <br>glu: base-url: https://box1033.bluehost.com/~areliabl/hymns.nevcal.com/
+  <br>glu: cgi-log: /home2/areliabl/0prod/log/cgi.log
+  <br>glu: cgi-script: /cgi-bin/0.cgi/
+  <br>glu: cgi-store: /home2/areliabl/0prod/storage
+  <br>glu: cgi-top: /home2/areliabl/0prod
+  <br>glu: debug: False
+  <br>glu: dispatch: 
+  <br>glu: fail-url: https://box1033.bluehost.com/~areliabl/hymns.nevcal.com/login/
+  <br>glu: in-admin: False
+  <br>glu: in-get: True
+  <br>glu: in-put: False
+  <br>glu: logpre: [192.195.81.241:53727] 
+  <br>glu: main-url: https://box1033.bluehost.com/~areliabl/hymns.nevcal.com/hc/img-Graces-png/g57a.png
+  <br>glu: rootpath: /home2/areliabl/0fs/hymns
+  <br>glu: top-url: https://box1033.bluehost.com/
+  <br>glu: user-log: /home2/areliabl/0prod/log/user.log
+  <br>
+  <h3>Environment variables</h3>DOCUMENT_ROOT: /usr/local/apache/htdocs
+  <br>GATEWAY_INTERFACE: CGI/1.1
+  <br>HTTPS: on
+  <br>HTTP_ACCEPT: */*
+  <br>HTTP_HOST: box1033.bluehost.com
+  <br>HTTP_USER_AGENT: curl/7.51.0
+  <br>LC_ALL: en_US.utf8
+  <br>LC_LANG: en_US.utf8
+  <br>PATH: /usr/local/bin:/usr/bin:/bin
+  <br>PATH_INFO: /hymns.nevcal.com/hc/img-Graces-png/g57a.png
+  <br>PATH_TRANSLATED: /usr/local/apache/htdocs/hymns.nevcal.com/hc/img-Graces-png/g57a.png
+  <br>PWD: /home2/areliabl/public_html/cgi-bin
+  <br>QUERY_STRING: 
+  <br>REDIRECT_STATUS: 200
+  <br>REDIRECT_URL: /~areliabl/hymns.nevcal.com/hc/img-Graces-png/g57a.png
+  <br>REMOTE_ADDR: 192.195.81.241
+  <br>REMOTE_PORT: 53727
+  <br>REQUEST_METHOD: GET
+  <br>REQUEST_URI: /~areliabl/hymns.nevcal.com/hc/img-Graces-png/g57a.png
+  <br>SCRIPT_FILENAME: /home2/areliabl/public_html/cgi-bin/0.cgi
+  <br>SCRIPT_NAME: /~areliabl/cgi-bin/0.cgi
+  <br>SERVER_ADDR: 69.195.124.233
+  <br>SERVER_ADMIN: webmaster@bluehost.com
+  <br>SERVER_NAME: box1033.bluehost.com
+  <br>SERVER_PORT: 443
+  <br>SERVER_PROTOCOL: HTTP/1.1
+  <br>SERVER_SIGNATURE: &lt;address&gt;Apache Server at box1033.bluehost.com Port 443&lt;/address&gt;
+
+  <br>SERVER_SOFTWARE: Apache
+  <br>SHLVL: 1
+  <br>SSL_TLS_SNI: box1033.bluehost.com
+  <br>UNIQUE_ID: WJFISkXDfOkAAE-pUNUAAACZ
+  <br>_: /home2/areliabl/public_html/cgi-bin/0.py
+  <br>
+  <br>sys.path: ['/home2/areliabl/0prod', '/home2/areliabl/py34/lib/python34.zip', '/home2/areliabl/py34/lib/python3.4', '/home2/areliabl/py34/lib/python3.4/plat-linux', '/home2/areliabl/py34/lib/python3.4/lib-dynload', '/home2/areliabl/.local/lib/python3.4/site-packages', '/home2/areliabl/py34/lib/python3.4/site-packages']
+  <p>sys.getfilesystemencoding: utf-8</p>
+  <p>sys.getdefaultencoding: utf-8</p>
+  <p>os.environ(&quot;LC_LANG&quot;): en_US.utf8</p>
+ </body>
+</html>
